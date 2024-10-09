@@ -48,8 +48,6 @@ While the CNN model provided the best accuracy at 96.7%, future improvements can
 
 ## 🖥️ How to Run 
 
-## How to Run 🖥️
-
 1. **Download the dataset**:
     - Visit the [Bone Fracture - Multi-Region X-ray Dataset on Kaggle](https://www.kaggle.com) and download the dataset.
     - Extract the files and place them in a folder named `data` at the root level of this repository.
