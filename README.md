@@ -49,16 +49,17 @@ While the CNN model provided the best accuracy at 96.7%, future improvements can
 ## 🖥️ How to Run 
 
 1. **Download the dataset**:
-    - Visit the [Bone Fracture - Multi-Region X-ray Dataset on Kaggle](https://www.kaggle.com) and download the dataset.
-    - Extract the files and place them in a folder named `data` at the root level of this repository.
+    - Visit the [Bone Fracture - Multi-Region X-ray Dataset on Kaggle](https://www.kaggle.com) and download the dataset. 
+    - After downloading, extract the files and place them in a folder named `data` at the root level of this repository.
 
 2. **Clone the repository**:
+    - This command creates a local copy of the project repository on your machine:
     ```bash
     git clone https://github.com/mntsai/bone-fracture-detection-dl.git
     ```
 
 3. **Install the required dependencies**:
-    Make sure you have all the necessary libraries installed. You can install them by running:
+    - Install the necessary Python libraries to run the code:
     ```bash
     pip install -r requirements.txt
     ```
